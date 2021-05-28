@@ -182,14 +182,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
  </p>
  
  ### Tools/Testing
