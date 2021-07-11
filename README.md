@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Josh</h1>
 <h3 align="center">
-  Full stack developer and designer from Auckland, New Zealand.
+  Frontend engineer and designer from Auckland, New Zealand.
 </h3>
 
 <p align="center">
