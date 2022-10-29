@@ -25,13 +25,6 @@
       style="margin-bottom: 5px;"
     />
   </a>
-  <a href="https://www.facebook.com/joshuabooth.nz" target="_blank">
-    <img
-      src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-      style="margin-bottom: 5px;"
-    />
-  </a>
   <a href="https://github.com/Joshua-Booth" target="_blank">
     <img
       src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
@@ -157,35 +150,6 @@
     <img
       src="https://api.iconify.design/logos-hugo.svg"
       alt="hugo"
-      width="40"
-      height="40"
-    />
-  </a>
- </p>
- 
- ### Backend
- 
- <p>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
       width="40"
       height="40"
     />
