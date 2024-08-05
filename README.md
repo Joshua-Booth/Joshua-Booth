@@ -113,11 +113,11 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
       alt="tailwindcss"
       width="40"
       height="40"
-    />
+    />        
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
@@ -220,11 +220,11 @@
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"
       alt="xd"
       width="40"
       height="40"
-    />
+    />    
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img
