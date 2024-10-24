@@ -129,7 +129,7 @@
   </a>
  </p>
  
- ### Tools/Testing
+ ### Tools & Testing
  
  <p>
    <a href="https://www.figma.com/" target="_blank">
