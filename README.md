@@ -75,7 +75,15 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      alt="react"
+      alt="TypeScript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img
+      src="https://svgl.app/library/graphql.svg"
+      alt="graphql"
       width="40"
       height="40"
     />
