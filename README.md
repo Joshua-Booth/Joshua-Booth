@@ -120,6 +120,13 @@
       height="40"
     />
   </a>
+  <a href="https://astro.build/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"    
+      alt="Astro"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://gohugo.io/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg"
