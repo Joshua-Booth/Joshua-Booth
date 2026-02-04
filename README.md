@@ -172,6 +172,14 @@
       height="40"
     />
   </a>
+ <a href="https://storybook.js.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://playwright.dev/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
